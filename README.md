@@ -1,8 +1,16 @@
 # Automotive-Sub-Ghz-
-A Collection of Various Automotive Sub=Ghz Key Fobs for Research Purposes Only!
-All Files aquired by me (however would love to add others contribute). when im able i try to isolate multiple examples of each function, 4 locks, 4 unlocks. trunk and panic buttons all get scanned. 
+A Collection of Various Automotive Sub-Ghz Key Fobs for Research Purposes Only!
 
+FILE KEY:
+l = lock
+u = Unlock
+rs = Remote Start
+t = trunk 
+p = panic button 
 
+the number denotes times pressed (usualy twice per button)
+
+i encounter newer cars daily. Also if there is a better/perfered format for collection please let me know. 
 
 
 
